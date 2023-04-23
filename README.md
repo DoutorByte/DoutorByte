@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=088A08&height=120&section=header"/>
 <div align="center">
-    <img align="center" alt="Mmalbr-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1067553244156538942/1070171530547449876/ReadyPlayerMe-Avatar.jpeg?width=568&height=568"/>
+    <img align="center" alt="Mmalbr-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1067553244156538942/1099591212865953852/SPOILER_Avatar2.png"/>
     </div>
 
 
