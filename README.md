@@ -3,6 +3,7 @@
     <img align="center" alt="Mmalbr-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1067553244156538942/1070171530547449876/ReadyPlayerMe-Avatar.jpeg?width=568&height=568"/>
 </div>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088A08&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Doutor+Byte;Criador+de+conteúdo;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ##
