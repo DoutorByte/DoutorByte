@@ -3,6 +3,7 @@
     <img align="center" alt="Mmalbr-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1067553244156538942/1099591212865953852/SPOILER_Avatar2.png"/>
     </div>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088A08&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Doutor+Byte;Criador+de+conteúdo;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DoutorByte&bg_color=000000&color=27593a&line=127834&point=00f51d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
